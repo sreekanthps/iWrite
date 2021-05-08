@@ -1,0 +1,34 @@
+PODS:
+  - FlexLayout (1.3.20)
+  - lottie-ios (3.1.8)
+  - PinLayout (1.9.2)
+  - Realm (5.3.3):
+    - Realm/Headers (= 5.3.3)
+  - Realm/Headers (5.3.3)
+  - RealmSwift (5.3.3):
+    - Realm (= 5.3.3)
+
+DEPENDENCIES:
+  - FlexLayout
+  - lottie-ios
+  - PinLayout
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - FlexLayout
+    - lottie-ios
+    - PinLayout
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  FlexLayout: 025dd153bd5618dcc9f93ef914106d7dc2a86fdc
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+  PinLayout: 0d96022e46e8b80468d819f182a393b97ca038da
+  Realm: 2d57ea355bf8ca2a0964d6bfb38d28d7ff2addf6
+  RealmSwift: 0a709536ecea30eea1d3c514f6ade2ed078dee3c
+
+PODFILE CHECKSUM: bb749ffc46e8c1c22fbc799f3517acb0d4d852a6
+
+COCOAPODS: 1.10.1

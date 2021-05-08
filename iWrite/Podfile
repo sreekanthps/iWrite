@@ -1,0 +1,25 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '12.0'
+
+target 'iWrite' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  pod 'RealmSwift'
+  pod 'FlexLayout'
+  pod 'PinLayout'
+  pod 'lottie-ios'
+  
+
+  # Pods for iWrite
+
+  target 'iWriteTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'iWriteUITests' do
+    # Pods for testing
+  end
+
+end
